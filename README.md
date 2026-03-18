@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 - 🎓 Computer Engineering @ Insper
-- 🔬 Focus: Blue Team, Offensive Security, Automation
+- 🔬 Focus: Blue Team, Offensive Security
 - ⚙️ Full stack + Cybersecurity + hardware hacking 
 
 ## 🧰 Tech Stack
