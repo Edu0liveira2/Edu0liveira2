@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - ⚙️ Full stack + Cybersecurity + hardware hacking 
 
 ## 🧰 Tech Stack
-Python • Rust • C/C++ • React • Linux • Docker • JavaScript 
+- Python • Rust • C/C++ • React • Linux • Docker • JavaScript 
 
 ## 💬 Languages
-Portuguese 🇧🇷, Spanish 🇪🇸, English 🇬🇧
+- Portuguese 🇧🇷, Spanish 🇪🇸, English 🇬🇧
 
 ## 🌐 Connect
 - LinkedIn: linkedin.com/in/eduardooliveira02
