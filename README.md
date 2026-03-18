@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Python • Rust • C/C++ • React • Linux • Docker • JavaScript 
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Edu0liveira2&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect
 - LinkedIn: ...
