@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Python • Rust • C/C++ • React • Linux • Docker • JavaScript 
 
 ## 💬 Languages
-- Portuguese 🇧🇷, Spanish 🇪🇸, English 🇬🇧
+- Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸
 
 ## 🌐 Connect
 - LinkedIn: linkedin.com/in/eduardooliveira02
