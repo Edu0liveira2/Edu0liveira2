@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Edu0liveira2/Edu0liveira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👾 Eduardo Oliveira
+
+> "Building systems, breaking systems, understanding systems."
+
+## 🧠 About Me
+- 🎓 Computer Engineering @ Insper
+- 🔬 Focus: Blue Team, Offensive Security, Automation
+- ⚙️ Full stack + Cybersecurity + hardware hacking 
+
+## 🧰 Tech Stack
+Python • Rust • C/C++ • React • Linux • Docker • JavaScript 
+
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect
+- LinkedIn: ...
