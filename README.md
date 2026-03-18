@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## 🧰 Tech Stack
 Python • Rust • C/C++ • React • Linux • Docker • JavaScript 
 
-## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Edu0liveira2&show_icons=true&theme=tokyonight)
+## 💬 Languages
+Portuguese 🇧🇷, Spanish 🇪🇸, English 🇬🇧
 
 ## 🌐 Connect
-- LinkedIn: ...
+- LinkedIn: linkedin.com/in/eduardooliveira02
